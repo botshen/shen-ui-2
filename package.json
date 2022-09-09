@@ -4,9 +4,8 @@
   "version": "0.0.7",
   "packageManager": "pnpm@7.9.0",
   "description": "",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "author": "Shen Xin <363088847@qq.com>",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/botshen",
   "homepage": "https://github.com/botshen/shen-ui-2#readme",
   "repository": {
     "type": "git",
