@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "es2018",
     "module": "esnext",
-    "lib": ["esnext","DOM"],
+    "lib": ["DOM"],
     "moduleResolution": "node",
     "esModuleInterop": true,
     "strict": true,
@@ -10,6 +10,6 @@
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
-    "jsx": "react",
+    "jsx": "react"
   }
 }
