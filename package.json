@@ -1,7 +1,7 @@
 {
   "name": "shen-ui-2",
   "type": "module",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "packageManager": "pnpm@7.9.0",
   "description": "",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
@@ -64,6 +64,9 @@
   "dependencies": {
     "@types/react": "^18.0.18",
     "react": "^18.2.0",
-    "sass": "^1.54.9"
+    "react-dom": "^18.2.0",
+    "react-is": "^18.2.0",
+    "sass": "^1.54.9",
+    "styled-components": "^5.3.5"
   }
 }
