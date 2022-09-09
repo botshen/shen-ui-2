@@ -60,7 +60,7 @@ const Form: React.FunctionComponent<Props> = (props) => {
                   className="fui-form-input"
                   type={f.input.type}
                   value={formData[f.name]}
-                  onChange={(e: any) =>
+                  onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
                     onInputChange(f.name, e.target.value)
                   }
                 />
